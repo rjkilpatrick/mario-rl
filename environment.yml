@@ -55,6 +55,7 @@ dependencies:
   - six=1.15.0=py38h06a4308_0
   - sqlite=3.33.0=h62c20be_0
   - tk=8.6.10=hbc83047_0
+  - torchvision=0.8.1=py38_cu102
   - typing_extensions=3.7.4.3=py_0
   - wheel=0.35.1=pyhd3eb1b0_0
   - xz=5.2.5=h7b6447c_0
