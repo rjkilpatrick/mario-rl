@@ -20,4 +20,5 @@ By optimizing a reward function (which is the premise of _most_ games), you can 
 
 ## Licensing
 
-This project was inspired by and will probably use some code from: <https://blog.paperspace.com/building-double-deep-q-network-super-mario-bros/>.
+This project was inspired by: <https://blog.paperspace.com/building-double-deep-q-network-super-mario-bros/>.
+Code under MIT License.
